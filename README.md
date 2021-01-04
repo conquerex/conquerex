@@ -1,7 +1,7 @@
 
 
 
-<img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width="480">
+<img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width="360">
 
 
 
@@ -37,7 +37,7 @@
 <br/>  
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/conquerex" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
