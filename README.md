@@ -5,7 +5,7 @@
 
 
 
-### I'm Jongkook, Android developer 👨‍💻 working since 2017 🚀🚀
+### I'm Jongkook, Android developer 👨‍💻 working since 2017 🚀🚀🚀
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/conquerex)](https://hits.seeyoufarm.com) ![Follow](https://img.shields.io/github/followers/conquerex?label=Follow)
 
