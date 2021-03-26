@@ -48,7 +48,8 @@
 </a>  
 </div>  
 
-Thank
+
+Thank you
 
 
 <br/>  
