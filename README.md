@@ -6,17 +6,17 @@
 
 
 ### I'm Jongkook, Android developer 👨‍💻 working since 2017 🚀  
-  
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/conquerex)](https://hits.seeyoufarm.com) ![Follow](https://img.shields.io/github/followers/conquerex?label=Follow)
 
 - 🌱 I’m currently learning **RxKotlin**  
-  
+
 
 - 📝 I regularly write articles on [https://devvkkid.tistory.com/](https://devvkkid.tistory.com/)  
-  
+
 
 - 📫 How to reach me **conquerex@gmail.com**  
-  
+
 
 <br/>  
 
@@ -45,6 +45,9 @@
 <img src=https://img.shields.io/badge/instagram-%23E45285.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+
+Thank
+
 
 <br/>  
