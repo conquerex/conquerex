@@ -1,0 +1,2 @@
+This is a sample file.
+(FOR GIT STUDY)
