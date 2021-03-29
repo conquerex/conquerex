@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width="360">
 
 
-### I'm Jongkook, Android developer 👨‍💻 working since 2017 🚀🚀
+### I'm Jongkook, Android developer 👨‍💻 working since 2017 🚀🚀🚀
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/conquerex)](https://hits.seeyoufarm.com) ![Follow](https://img.shields.io/github/followers/conquerex?label=Follow)
 
