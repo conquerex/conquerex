@@ -8,7 +8,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/conquerex)](https://hits.seeyoufarm.com) ![Follow](https://img.shields.io/github/followers/conquerex?label=Follow)
 
-- 🌱 I’m currently learning **RxKotlin**  
+- 🌱 I’m currently learning **Spring**. But I'm Android Android developer, really.
 
 
 - 🔭 I’m currently working on Android app developement at Smart Food Networks
@@ -47,9 +47,6 @@
 <img src=https://img.shields.io/badge/instagram-%23E45285.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-
-Thank you
 
 Thank you
 
