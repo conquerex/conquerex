@@ -52,6 +52,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conquerex&layout=compact)](https://github.com/conquerex)
 
+<a href="https://opgc.me/#/users/conquerex" target="_blank"><img src="https://api.opgc.me/githubs/users/conquerex/tag/?theme=basic" /></a>
 
 <br/>  
 
@@ -67,7 +68,6 @@
 
 <br/>
 <br/>
-
 😆 Thank you
 
 <br/>  
